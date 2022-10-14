@@ -1,1 +1,4 @@
-Repositório dos comandos do Git e orientações básicas por anderson.awbf@gmail.com
+<h1> Comandos Git e dicas para utilizar GitHub <h1>
+
+> por Anderson Wladis Borges Ferreira
+
